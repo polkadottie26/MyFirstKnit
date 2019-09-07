@@ -1,0 +1,76 @@
+---
+title: "First Knit"
+author: "Jacky/Dottie Maya"
+date: "8/31/2019"
+output: 
+  html_document:
+    number_sections: true
+    toc: true
+---
+
+### `r as.character(Sys.Date())`
+
+
+# A Little Survey
+
+Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.
+For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. Half the points in this assignment depend on your picture and name being correct!!  Be sure to put your photo in the AAA_Owner_Info folder and call it My_photo.jpg after first renaming the current one to Koala.jpg . 
+
+## Where are you now?  
+
+What row are you in, front,middle or back?  Do you usually choose a similiar row in other classes? What is the computer number where you are sitting?  How on a scale of 1 to 10 (1=low, 10=high) How you feel about periodic seat re-assignment, say how and why. Teams, have you ever worked on one in a class setting?  
+
+### my answer 
+
+I am at CSUB-AV in room 124. I am in the 2nd row of the classroom. My computer does not have a number. On a scale of 1 to 10 for how I feel about periodic seat re-assignment is a 1 because I like to choose my own seat. Yes, I have worked in a team before, they kinda suck.
+
+
+
+## Others and You? 
+
+What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want me to call you something else - what would that be? 
+
+### my answer     
+  
+I prefer to be called Dottie because there are many Jackys at CSUB-AV & I like to be unique!
+
+
+## Aspirations?   
+What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
+
+### my answer     
+  
+I am trying to get an MBA degree in 2 years! I want to make lots of money to start off & then work my way to something I love doing. I would love to work in the music, video game, or technology industry. I hope to get hired at EAFB, Northrop, or Lockheed by next summer or by the time I finish my MBA degree.
+
+
+## Past adventures?  
+Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
+
+### my answer     
+  
+The only foreign country I've been to is Mexico, but I plan on visiting Japan next summer! I would not want to get drafted, but if i were drafted, I would want to go into the Navy because my dad went into that branch.
+
+## Why are you taking Math 115?  
+What grade do you need to attain in stats to not upset your future plans, What is your plan?
+ 
+
+### my answer     
+  
+I already took Math 115 at AVC with you, actually! That's why I took this class. I hope to get an A in this class because I have a GPA to uphold!
+
+
+## Homework Help and Getting around?  
+On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  Do you have a computer you can use at home? If so, what kind is it (windows, Apple, Linux)? Do you have internet access at home?  
+How do you get to class? Are there issues that limit when you can be at the college?Where and when did you attend high school?  Do you currently have a job?
+
+### my answer   
+
+I'd say I'm around an 8 with computer knowledge, I mean I did get the IT Assistant position! I do have a computer at home and it is a Windows 10 desktop. I do have internet at home. 
+I drive to school and there shouldn't be any limits to getting to class other than emergencies or if my car breaks down (It's kinda old, but it's still good and I'll use it until it gives out!). 
+I attended Pete Knight High School, but I did not graduate from there. I moved to Utah for my senior year and that's where I graduated. 
+I work at school as the Student Life Assistant, but I was formerly the IT Assistant. I switched because I was bored as the ITA and as the SLA, I get to work with the clubs and help throw events at the AV campus which is way more fun than troubleshooting and fixing simple issues around campus. I also work at a company called Simulations Plus once a week inputing data. I had to do a presentation of the data I collected the Friday before classes started which went well! They decided to keep me to continue inputing data. It's boring, but the employees are fun and friendly! The company culture is awesome.
+  
+## Critique of the AI in business article
+
+I thought it was an interesting article. I really liked how the article mentioned educating companies and people about AI learning because I am a huge advocate of learning! Especially learning about technology because that is literally the future. I also like how it mentions giving credit or recognition to employees, whether they are product manager, data scientist, or frontline worker, for making any AI program a success. That is important because people need to be praised at work for doing a good job. It raises spirits, your mood, and makes the employees work effectively when they are recognized for good work. It is a good article.
+
